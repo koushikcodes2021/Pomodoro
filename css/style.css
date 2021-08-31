@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://github.com/koushikcodes2021/Pomodoro/blob/c7d206a8013ca7eec524ac32e7f162e6c24dcb2e/assets/bg.png);
+  background-image: url('../assets/bg.png');
   background-size: auto;
   background-repeat: no-repeat;
   background-color: rgb(32, 39, 49);
