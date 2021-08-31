@@ -1,6 +1,6 @@
 body {
   background-image: url('../assets/bg.png');
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
   background-color: rgb(32, 39, 49);
   margin: 0px;
